@@ -1,4 +1,4 @@
 package dao;
 
-public class IPostDAO {
+public interface IPostDAO {
 }
